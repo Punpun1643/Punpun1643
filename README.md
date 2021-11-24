@@ -1,10 +1,14 @@
 ### Hi there 👋  I'm [Pun Pun](https://punpun1643.github.io/) 😀
 ![](https://visitor-badge.laobi.icu/badge?page_id=Punpun1643.Punpun1643) [![Github](https://img.shields.io/github/followers/Punpun1643?label=Followers&logo=Github)](https://github.com/Punpun1643)
+
+
 ## 🎓 I'm a Computer Science student at the National University of Singapore (NUS)
+
 
 - 🌱 I’m currently learning Web Development, UI/UX, Blockchain Development.
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything!
+
 
 ## 🧰 Languages and Tools:
 
@@ -19,6 +23,13 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+
+## :trophy: My Github Stats:
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Punpun1643&show_icons=true&theme=jolly)
+
 
 <!--
 **Punpun1643/Punpun1643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
