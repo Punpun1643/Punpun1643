@@ -1,10 +1,10 @@
-### Hi there 👋 I'm [Pun Pun](https://punpun1643.github.io/)😀
+### Hi there 👋  I'm [Pun Pun](https://punpun1643.github.io/) 😀
 
 ## 🎓 I'm a Computer Science student at the National University of Singapore (NUS)
 
-- 🌱 I’m currently learning web development, UI/UX, blockchain development.
+- 🌱 I’m currently learning Web Development, UI/UX, Blockchain Development.
 - 👯 I’m looking to collaborate with anyone on any project.
-- 💬 Ask me about anything
+- 💬 Ask me about anything!
 
 ## 🧰 Languages and Tools:
 <p align="center">
