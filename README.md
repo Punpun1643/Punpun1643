@@ -1,5 +1,5 @@
 ### Hi there 👋  I'm [Pun Pun](https://punpun1643.github.io/) 😀
-
+![](https://visitor-badge.laobi.icu/badge?page_id=Punpun1643.Punpun1643)
 ## 🎓 I'm a Computer Science student at the National University of Singapore (NUS)
 
 - 🌱 I’m currently learning Web Development, UI/UX, Blockchain Development.
