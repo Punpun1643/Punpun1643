@@ -28,7 +28,15 @@
 ## :trophy: My Github Stats:
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Punpun1643&show_icons=true&theme=jolly)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Punpun1643&show_icons=true&theme=jolly) -->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=Punpun1643&theme=jolly">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Punpun1643&count_private=true&show_icons=true&theme=jolly" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Punpun1643&hide=php&theme=jolly">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punpun1643&hide=php&theme=jolly" />
+</a>
+</div>
 
 
 <!--
