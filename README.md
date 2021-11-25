@@ -28,9 +28,9 @@
 ## 📌 Recently Worked On:
 
 
-<!-- <a href="https://github.com/Punpun1643/Project-ReHash.git">
+<a href="https://github.com/Punpun1643/Project-ReHash.git">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Punpun1643&repo=Project-ReHash&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> -->
+</a>
 
 
 ## :trophy: My Github Stats:
