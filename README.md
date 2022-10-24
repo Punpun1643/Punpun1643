@@ -55,21 +55,3 @@
 <a href="http://www.github.com/Punpun1643"><img src="https://activity-graph.herokuapp.com/graph?username=Punpun1643&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </p>
 
-
-## Recently Worked On
-
-<a href="https://github.com/Punpun1643/Project-ReHash.git">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Punpun1643&repo=Project-ReHash&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Punpun1643/Blockchain-Tutorial.git">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Punpun1643&repo=Blockchain-Tutorial&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Punpun1643/CryptoHub.git">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Punpun1643&repo=CryptoHub&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-
-
