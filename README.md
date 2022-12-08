@@ -4,7 +4,7 @@
 ## 🎓 I'm a Computer Science student at the National University of Singapore (NUS)
 
 * 🌍  I'm based in Singapore
-* 🖥️  See my portfolio at [my personal website](http://punpun1643.github.io/)
+* 🖥️  See my portfolio at [my personal website](https://punpun1643.netlify.app/)
 * ✉️  You can contact me at [papattarada.a@u.nus.edu](mailto:papattarada.a@u.nus.edu)
 * 🧠  I'm learning Web Dev, UI/UX, Data Science, Fintech Spaces
 * 🤝  I'm open to collaborating on interesting projects!
