@@ -36,13 +36,3 @@
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/papattarada-apithanangsiri/)
-
-
-## My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=punpun1643&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-<a href="http://www.github.com/Punpun1643"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Punpun1643&theme=dracula" alt="GitHub Commits Graph" /></a>
-</p>
