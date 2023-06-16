@@ -1,4 +1,4 @@
-## Hi there 👋  I'm [Pun Pun](https://punpun1643.netlify.app/) 😀
+## Hi there 👋  I'm [Pun Pun](https://punpun1643.tech) 😀
 
 
 ## 🎓 I'm a Computer Science student at the National University of Singapore (NUS)
