@@ -1,10 +1,7 @@
-## Hi there 👋  I'm [Pun Pun](https://punpun1643.tech) 😀
-
-
 ## 🎓 I'm a Computer Science student at the National University of Singapore (NUS)
 
 * 🌍  I'm based in Singapore
-* 🖥️  See my portfolio at [my personal website](https://punpun1643.me)
+* 🖥️ [Technical blog](https://blog.punpun1643.me)
 * ✉️  You can contact me at [papattarada.a@u.nus.edu](mailto:papattarada.a@u.nus.edu)
 
 ## Stuff that I've worked with 👩🏻‍💻
@@ -22,6 +19,3 @@
 
 ### ML
 [![ML](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
-
-
-[Stats](https://github-readme-stats.vercel.app/api?username=Punpun1643&theme=tokyonight)
