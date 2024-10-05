@@ -22,3 +22,6 @@
 
 ### ML
 [![ML](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
+
+
+[Stats](https://github-readme-stats.vercel.app/api?username=Punpun1643&theme=tokyonight)
