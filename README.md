@@ -11,7 +11,7 @@
    *  CS3219 Software Engineering Principles and Patterns
    *  CP2106 Independent Software Development Project
      
-📝 I writes my [technical blog](https://blog.punpun1643.me) sometimes
+📝 I write my [technical blog](https://blog.punpun1643.me) sometimes
 
 ✉️  Email: papattarada.a [at] u.nus.edu
 
